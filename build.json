@@ -1,5 +1,7 @@
 {
-    "name": "Simple Project",
-    "namespace": "Saeghe\\SimplePackage",
+    "name": "Simple Package",
+    "map": {
+      "SimplePackage": "Source"
+    },
     "packages": []
 }
