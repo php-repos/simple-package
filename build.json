@@ -6,5 +6,8 @@
     "packages": [],
     "executables": {
       "run-executable": "run.php"
-    }
+    },
+    "entry-points": [
+        "entry-point"    
+    ]
 }
