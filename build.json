@@ -3,5 +3,8 @@
     "map": {
       "Saeghe\\SimplePackage": "Source"
     },
-    "packages": []
+    "packages": [],
+    "executables": {
+      "run-executable": "run.php"
+    }
 }
