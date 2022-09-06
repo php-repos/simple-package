@@ -1,6 +1,6 @@
 <?php
 
-namespace SimplePackage;
+namespace Saeghe\SimplePackage;
 
 class SimpleClass
 {
