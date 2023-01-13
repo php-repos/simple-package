@@ -1,7 +1,7 @@
 {
     "name": "Simple Package",
     "map": {
-      "Saeghe\\SimplePackage": "Source"
+      "PhpRepos\\SimplePackage": "Source"
     },
     "packages": [],
     "executables": {
